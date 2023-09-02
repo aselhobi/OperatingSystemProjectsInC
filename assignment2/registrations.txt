@@ -1,0 +1,7 @@
+Name: eren Days: Saturday Sunday Monday
+Name: sasha Days: Saturday Monday 
+Name: mikasa Days: Saturday Sunday
+Name: armin Days: Friday Tuesday
+Name: torfinn Days: Saturday Sunday Tuesday
+Name: saske Days: Saturday Sunday Thursday
+Name: erwin Days: Wednesday Friday
